@@ -1,3 +1,10 @@
 Brad Macnee
 bradley.macnee@colorado.edu
 This is a simple ssl client/server coded in python
+
+Instructions:
+  First run server by:
+    python server.py
+  Then run client by:
+    python client.py
+  Client should pass the variable 'message' to the server which in hand sends the same 'message' back to the client
