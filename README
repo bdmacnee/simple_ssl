@@ -1,6 +1,7 @@
 Brad Macnee
 bradley.macnee@colorado.edu
-This is a simple ssl client/server coded in python
+This is a simple ssl client/server coded in python.
+**NOTE** Current implementation is only over TCP, not yet wrapped by SSL (I need to set up certs)
 
 Instructions:
   First run server by:
